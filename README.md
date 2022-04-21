@@ -3,9 +3,8 @@
 ## Overview of Project
 
 ### Purpose
-'''
+
 This project is about how to program with VBA script through a scenario where we would like to assess which stocks on a portfolio were traded the most in a given year and which stocks yielded positive price returns from the begining to the end of a year.
-'''
 
 ## Results
 
