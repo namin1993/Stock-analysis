@@ -12,7 +12,7 @@ This project is about how to program with VBA script through a scenario where we
 
 ![2018 Stock Analysis Runtime](https://github.com/namin1993/Stock-analysis/blob/a5099ae7ef57b74ee9bf321e74548cca9468504b/Resources/2018_Stock_Analysis-Screen%20Shot%202022-04-21%20at%204.37.08%20AM.png)
 
-'''
+
 For each year, an analysis was performed on all the stocks listed. I determined:
   1.) The total volume that all stocks were traded in a given year
   2.) The percent closing price return of a given stock from the beginning to the end of a year.
@@ -20,7 +20,6 @@ For each year, an analysis was performed on all the stocks listed. I determined:
 In 2017, SPWR was the highest traded stock with a total volume of 782,187,000. All stocks in the portfolio except for TERP yielded positive returns. Some stocks yielded extremely high returns such as DQ, EPNH, DSLR, and SEDG. 
 
 In 2018, ENPH was traded the most with its volume of 607,473,500. ENPH and RUN were the only 2 stocks which yielded positive returns in 2018. JKS yielded the worst return in stock with a -60.5% return.
-'''
 
 
 ## Summary
